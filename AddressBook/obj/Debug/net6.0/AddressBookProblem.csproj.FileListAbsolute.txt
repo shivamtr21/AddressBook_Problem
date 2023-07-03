@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\bin\Debug\net6.0\AddressBookProblem.exe
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\bin\Debug\net6.0\AddressBookProblem.deps.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\bin\Debug\net6.0\AddressBookProblem.runtimeconfig.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\bin\Debug\net6.0\AddressBookProblem.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\bin\Debug\net6.0\AddressBookProblem.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\AddressBookProblem.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\AddressBookProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\AddressBookProblem.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\AddressBookProblem.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\AddressBookProblem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\AddressBookProblem.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\refint\AddressBookProblem.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\AddressBookProblem.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\AddressBookProblem.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\AddressBook\AddressBook\AddressBook\obj\Debug\net6.0\ref\AddressBookProblem.dll
